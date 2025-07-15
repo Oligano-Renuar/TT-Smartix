@@ -36,8 +36,6 @@ java -jar target/smartix-test-0.0.1-SNAPSHOT.jar
 
 ## Документация API
 
-Swagger UI доступен по адресу: http://localhost:8080/swagger-ui.html
-
 ### Основные эндпоинты
 
 #### Импорт товаров из внешнего API
